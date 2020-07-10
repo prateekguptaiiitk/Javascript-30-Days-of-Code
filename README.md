@@ -7,3 +7,5 @@
 
 :heavy_check_mark: **Day-02** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/02-JS%20and%20CSS%20Clock" style="text-decoration: none">JS and CSS Clock</a>
 
+:heavy_check_mark: **Day-03** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/03-CSS-Variables" style="text-decoration: none">CSS Variables</a>
+
