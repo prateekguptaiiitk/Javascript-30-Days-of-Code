@@ -9,3 +9,5 @@
 
 :heavy_check_mark: **Day-03** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/03-CSS%20Variables" style="text-decoration: none">CSS Variables</a>
 
+:heavy_check_mark: **Day-04** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/04-Array%20Cardio%20Day%201" style="text-decoration: none">Array Cardio Day 1</a>
+
