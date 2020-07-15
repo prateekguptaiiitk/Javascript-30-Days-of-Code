@@ -14,3 +14,7 @@
 :heavy_check_mark: **Day-05** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/05-Flex%20Panel%20Gallery" style="text-decoration: none">05-Flex Panel Gallery</a>
 
 :heavy_check_mark: **Day-06** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/06-Ajax%20Type%20Ahead" style="text-decoration: none">06-Ajax Type Ahead</a>
+
+:heavy_check_mark: **Day-07** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/07-Array%20Cardio%20Day%202" style="text-decoration: none">07-Array Cardio Day 2</a>
+
+:heavy_check_mark: **Day-08** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/08-Fun%20with%20HTML5%20Canvas" style="text-decoration: none">08-Fun with HTML5 Canvas</a>
