@@ -20,3 +20,5 @@
 :heavy_check_mark: **Day-08** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/08-Fun%20with%20HTML5%20Canvas" style="text-decoration: none">Fun with HTML5 Canvas</a>
 
 :heavy_check_mark: **Day-09** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/09-Dev%20Tools%20Domination" style="text-decoration: none">Dev Tools Domination</a>
+
+:heavy_check_mark: **Day-10** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/10-Hold%20Shift%20and%20Check%20Checkboxes" style="text-decoration: none">Hold Shift and Check Checkboxes</a>
