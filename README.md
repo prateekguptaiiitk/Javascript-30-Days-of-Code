@@ -22,3 +22,5 @@
 :heavy_check_mark: **Day-09** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/09-Dev%20Tools%20Domination" style="text-decoration: none">Dev Tools Domination</a>
 
 :heavy_check_mark: **Day-10** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/10-Hold%20Shift%20and%20Check%20Checkboxes" style="text-decoration: none">Hold Shift and Check Checkboxes</a>
+
+:heavy_check_mark: **Day-11** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/11-Custom%20Video%20Player" style="text-decoration: none">Custom Video Player</a>
