@@ -24,3 +24,9 @@
 :heavy_check_mark: **Day-10** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/10-Hold%20Shift%20and%20Check%20Checkboxes" style="text-decoration: none">Hold Shift and Check Checkboxes</a>
 
 :heavy_check_mark: **Day-11** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/11-Custom%20Video%20Player" style="text-decoration: none">Custom Video Player</a>
+
+:heavy_check_mark: **Day-12** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/12-Key%20Sequence%20Detection" style="text-decoration: none">Key Sequence Detection</a>
+
+:heavy_check_mark: **Day-13** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/13-Slide%20in%20on%20Scroll" style="text-decoration: none">Slide in on Scroll</a>
+
+:heavy_check_mark: **Day-14** - <a href="https://github.com/prateekguptaiiitk/Javascript-30-Days-of-Code/tree/master/14-JavaScript%20References%20VS%20Copying" style="text-decoration: none">JavaScript References VS Copying</a>
